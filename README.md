@@ -50,21 +50,20 @@
 ### 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/amaanshaikh1122" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://amaan-shaikh-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/amaanshaikh002" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://amaan-shaikh-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/amaan--portfolio-a?style=for-the-badge&color=black"/></a>
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-<p align="center">
+<p align="start">
   🚀 Some of my best work that showcases my skills and interests
 </p>
 
-- [Blockchain Staking dApp](https://github.com/Amaan1122/StakingDApp) – Web3 staking and rewards platform with TON Wallet integration.
-- [TalentMatch AI](https://github.com/Amaan1122/TalentMatchAI) – AI-powered Resume Screener & Job Match SaaS tool.
-- [Grocery E-Commerce](https://github.com/Amaan1122/GroceryEcommerce) – Full-stack Angular + .NET Core e-commerce platform.
+- [Blockchain Staking dApp](https://github.com/Amaan1122/ShhhToshiApp) – Web3 staking and rewards platform with TON Wallet integration.
+- [TalentMatch AI](https://github.com/Amaan1122/TalentMatch-AI) – AI-powered Resume Screener & Job Match SaaS tool.
 
 ---
 
