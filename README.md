@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amaan Shaikh</h1>
 <h3 align="center">🚀 Full Stack Software Engineer | AI & Blockchain Enthusiast | Cloud Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amaan1122&label=Profile%20views&color=0e75b6&style=flat" alt="Amaan1122" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
