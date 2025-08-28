@@ -59,7 +59,6 @@
 </p>
 
 - [Blockchain Staking dApp](https://github.com/Amaan1122/ShhhToshiApp) – Web3 staking and rewards platform with TON Wallet integration.
-- [TalentMatch AI](https://github.com/Amaan1122/TalentMatch-AI) – AI-powered Resume Screener & Job Match SaaS tool.
 
 ---
 
