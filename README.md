@@ -47,7 +47,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/amaanshaikh002" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://amaan-shaikh-portfolio-eight.vercel.app"><img src="https://img.shields.io/badge/amaan--portfolio-a?style=for-the-badge&color=black"/></a>
 </p>
 
 ---
